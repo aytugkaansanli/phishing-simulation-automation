@@ -24,7 +24,7 @@ class GophishAutomation:
 
 if __name__ == "__main__":
     # Gophish panelinden alacağın API anahtarını buraya ekleyebilirsin
-    API_KEY = "BURAYA_GOPHISH_API_ANAHTARIN_GELECEK"
+    API_KEY = "GOPHISH_API_ANAHTARINI_YAZALIM"
     manager = GophishAutomation(API_KEY)
     
     print("[*] Gophish Python Otomasyon Betiği Başlatıldı...")
